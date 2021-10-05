@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Science and Technology,University of Arizona, 2021
+* Minor in Music and Culture, University of Arizona, 2021
 
 Work experience
 ======
@@ -29,12 +28,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
+* Scientific Programming
+  * Python
+  * Rstudio
+  * Container technology
+  * Distributed Programming
+* Microsoft Applications
+  * Word
+  * PowerPoint
+  * Excel
+  * OneNote
+* Adobe Applications
+  * Audition
+  * Illustrator
+  * Media Encoder
+  * Photoshop
+  * Premiere Pro
+  * Acrobat
 
 Publications
 ======

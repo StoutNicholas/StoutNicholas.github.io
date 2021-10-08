@@ -18,7 +18,6 @@ Education
   
 Skills
 ======
-* 
 * Scientific Programming
   * Python
   * Rstudio

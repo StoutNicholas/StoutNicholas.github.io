@@ -14,7 +14,8 @@ Education
 * B.S. in Informations Science and Technology,University of Arizona, 2021
 * Minor in Music and Culture, University of Arizona, 2021
 
-
+Work experience
+======
   
 Skills
 ======

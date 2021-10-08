@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Science and Technology,University of Arizona, 2021
+* B.S. in Informations Science and Technology,University of Arizona, 2021
 * Minor in Music and Culture, University of Arizona, 2021
 
 
